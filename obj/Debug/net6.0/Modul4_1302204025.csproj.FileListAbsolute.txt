@@ -1,0 +1,15 @@
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\Modul4_1302204025.csproj.AssemblyReference.cache
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\Modul4_1302204025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\Modul4_1302204025.AssemblyInfoInputs.cache
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\Modul4_1302204025.AssemblyInfo.cs
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\Modul4_1302204025.csproj.CoreCompileInputs.cache
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\bin\Debug\net6.0\Modul4_1302204025.exe
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\bin\Debug\net6.0\Modul4_1302204025.deps.json
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\bin\Debug\net6.0\Modul4_1302204025.runtimeconfig.json
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\bin\Debug\net6.0\Modul4_1302204025.dll
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\bin\Debug\net6.0\Modul4_1302204025.pdb
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\Modul4_1302204025.dll
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\refint\Modul4_1302204025.dll
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\Modul4_1302204025.pdb
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\Modul4_1302204025.genruntimeconfig.cache
+C:\Users\Faodzi.23\Kontruksi Perangkat Lunak\Modul4_1302204025\Modul4_1302204025\obj\Debug\net6.0\ref\Modul4_1302204025.dll

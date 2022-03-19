@@ -19,4 +19,31 @@
             return jumlah1 + jumlah2 + jumlah3;
         }
     }
+
+    class SimpleDataBase<T>
+    {
+        private List<T> storedData;
+        private List<DateTime> inputDates;
+
+        public SimpleDataBase()
+        {
+            storedData = new List<T>();
+            List<DateTime> dateTimes = new List<DateTime>();
+            inputDates = dateTimes;
+        }
+
+        public void AddNewData(T Data)
+        {
+            storedData.Add(Data);
+            inputDates.Add(DateTime.Now);
+        }
+
+        public void printAllData()
+        {
+            for(int i = 0; i < storedData.Count; i++)
+            {
+                Console.WriteLine("Data" + i + "Isi : " + storedData[i].ToString() + "Waktu Disimpan" + i);
+            }
+        }
+    }
 }
